@@ -10,3 +10,6 @@ when clicking different tap it will take you to the specific category
 
 
 <img width="1383" alt="Screenshot 2023-01-09 at 2 50 47 pm" src="https://user-images.githubusercontent.com/74395645/211243096-d1bff6be-c2d5-4cd0-aee2-57cffabb0a32.png">
+
+
+live demo: https://cozy-dodol-e38c57.netlify.app
